@@ -60,8 +60,6 @@ for i in range(len(start)):                     #will create individual multipol
         myfile.write(content[start_index:end_index + 3])
 
 
-# In[ ]:
-
 
 
 
