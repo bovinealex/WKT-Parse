@@ -27,7 +27,6 @@ while decrement:
 #the multipolygons.txt file used as an example cointains two polygons, which outline adminstravie boundaries in Indonesia
 with open('multipolygons.txt', 'r') as AllWKT: 
     content = AllWKT.read()
-def WKT_Parse (inputfile):
 value = content
 location = -1
 end = []
